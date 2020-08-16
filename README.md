@@ -1,8 +1,12 @@
 # EduShareApp_Project
 Mobile Application Development: Idea by IT19024882
+
  	Application Type:   E learning mobile application
+  
  	Group Name: SLCODERS
+  
  	Application name: EduCare
+  
  	Target:  To connect Students  and  teachers from all around the Sri Lanka to discuss their problems, subject matters, and share resources through the app.
   
  	Aim: Share Knowledge and experiences
