@@ -1,4 +1,4 @@
-# EduShareApp_Project
+# EduCareApp_Project
 Mobile Application Development: Idea by IT19024882
 
  	Application Type:   E learning mobile application
